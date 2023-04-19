@@ -172,11 +172,11 @@ accelerate launch --config_file configs/default_config.yaml instruction_tuning.p
 ## 后续计划
 
 1. 加入更多训练监控，比如训练数据类别的分布等，加入继续训练相关代码
-2. 开源预训练好的多语言Llama 6.9B的checkpoint
-3. 实现Instruction-tuning代码，并开源相关checkpoint
-4. 使用Gradio搭建在线Demo
-5. 使用[Triton](https://github.com/openai/triton)加入更多高性能算子，进一步提升性能
-6. 加入根据Common Crawl构建预训练数据集相关代码，并开源相关数据集
-7. 加入多模态训练代码
+2. 实现Instruction-tuning代码，并开源相关checkpoint
+3. 使用Gradio搭建在线Demo
+4. 基于模型开发chatpaper等chat工具
+5. 加入根据Common Crawl构建预训练数据集相关代码，并开源相关数据集
+6. 加入多模态训练代码
+7. ......
 
 
